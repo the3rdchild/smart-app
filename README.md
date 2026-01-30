@@ -1,4 +1,4 @@
-# myapp
+# SMART-App
 
 A new Flutter project.
 
